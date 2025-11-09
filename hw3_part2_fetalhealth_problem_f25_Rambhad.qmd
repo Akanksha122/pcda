@@ -1,5 +1,6 @@
 ---
 title: "HW3-Part 2-Classification models"
+author: "Akanksha Rambhad"
 format: 
   html:
     embed-resources: true
